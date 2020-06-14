@@ -1,9 +1,3 @@
 # Paint Drop
 
-Bundled with Browserify.
-
-```browserify index.js -o bundle.js```
-
-Run locally using Python web server.
-
-```http-server . -p 8000```
+Demo can be found [here](https://tiangela1027.github.io/paint-drop/paintdrop.html).
